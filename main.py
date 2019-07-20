@@ -36,7 +36,7 @@ player_items = [{"item": potion, "quantity": 15},
                 {"item": grenade,"quantity":5},
                 {"item":bomb,"quantity":5}]
 
-player1 = Person("Parth ", 3260, 132, 300, 34, player_spells, player_items)
+player1 = Person("Hulk ", 3260, 132, 300, 34, player_spells, player_items)
 player2 = Person("Stark ", 4160, 188, 311, 34, player_spells, player_items)
 player3 = Person("Steve ", 3089, 174, 288, 34, player_spells, player_items)
 
